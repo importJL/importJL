@@ -26,6 +26,28 @@
   </a>
 </p>
 
+#### _Data_Science_&_Machine_learning
+<p align="left">
+  <a href="#" target="_blank">
+    <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-cafffc?style=flat-square&logo=numpy&logoColor=013343">
+  </a>
+  <a href="#" target="_blank">
+    <img alt="pandas" src="https://img.shields.io/badge/-pandas-130654?style=flat-square&logo=pandas">
+  </a>
+  <a href="#" target="_blank">
+    <img alt="Plotly" src="https://img.shields.io/badge/-Plotly-ffffff?style=flat-square&logo=plotly&logoColor=3F4F75">
+  </a>
+  <a href="#" target="_blank">
+    <img alt="scikit-learn" src="https://img.shields.io/badge/-scikit learn-212529?style=flat-square&logo=scikitlearn">
+  </a>
+  <a href="#" target="_blank">
+    <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-ffffff?style=flat-square&logo=tensorflow">
+  </a>
+  <a href="#" target="_blank">
+    <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-000041?style=flat-square&logo=pytorch">
+  </a>
+</p>
+
 #### _Techs & Tools
 <p align="left">
   <a href="#" target="_blank">
