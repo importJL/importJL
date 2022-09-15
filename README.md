@@ -60,10 +60,19 @@
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-cafffc?style=flat-square&logo=mongodb">
   </a>
   <a href="#" target="_blank">
+    <img alt="Airflow" src="https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=Apache%20Airflow">
+  </a>
+  <a href="#" target="_blank">
     <img alt="GCP" src="https://img.shields.io/badge/-Google Cloud-ffffff?style=flat-square&logo=googlecloud">
   </a>
   <a href="#" target="_blank">
+    <img alt="AWS" src="https://img.shields.io/badge/-AWS-ff0000?style=flat-square&logo=amazon-aws">
+  </a>
+  <a href="#" target="_blank">
     <img alt="VSCode" src="https://img.shields.io/badge/-VS Code-2c2c32?style=flat-square&logo=visualstudiocode">
+  </a>
+  <a href="#" target="_blank">
+    <img alt="PyCharm" src="https://img.shields.io/badge/-pycharm-black?style=flat-square&logo=pycharm">
   </a>
 </p>
 
