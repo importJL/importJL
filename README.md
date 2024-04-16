@@ -19,6 +19,9 @@
     <img alt="ReactJS" src="https://img.shields.io/badge/-ReactJS-282c34?style=flat-square&logo=react">
   </a>
   <a href="#" target="_blank">
+    <img alt="NextJS" src="https://img.shields.io/badge/Next.js-badge?style=flat-square&logo=next.js&logoColor=light-blue&labelColor=purple&color=purple">
+  </a>
+  <a href="#" target="_blank">
     <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-233056?style=flat-square&logo=node.js">
   </a>
   <a href="#" target="_blank">
@@ -34,13 +37,13 @@
   <a href="#" target="_blank">
     <img alt="pandas" src="https://img.shields.io/badge/-pandas-130654?style=flat-square&logo=pandas">
   </a>
-  <a href="#">
+  <a href="#" target="_blank">
     <img alt="polars" src="https://img.shields.io/badge/Polars-badge?style=flat-square&logo=polars&logoColor=white&labelColor=black&color=black">
   </a>
   <a href="#" target="_blank">
     <img alt="Plotly" src="https://img.shields.io/badge/-Plotly-ffffff?style=flat-square&logo=plotly&logoColor=3F4F75">
   </a>
-  <a href="#">
+  <a href="#" target="_blank">
     <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-badge?style=flat-square&logo=streamlit&logoColor=brown&labelColor=green&color=green">
   </a>
   <a href="#" target="_blank">
@@ -73,6 +76,9 @@
   </a>
   <a href="#" target="_blank">
     <img alt="AWS" src="https://img.shields.io/badge/-AWS-ff0000?style=flat-square&logo=amazon-aws">
+  </a>
+  <a href="#" target="_blank">
+    <img alt="Azure" src="https://img.shields.io/badge/Azure-badge?style=flat-square&logo=microsoft%20azure&logoColor=blue&labelColor=white&color=white">
   </a>
   <a href="#" target="_blank">
     <img alt="VSCode" src="https://img.shields.io/badge/-VS Code-2c2c32?style=flat-square&logo=visualstudiocode">
