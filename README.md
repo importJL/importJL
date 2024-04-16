@@ -34,8 +34,14 @@
   <a href="#" target="_blank">
     <img alt="pandas" src="https://img.shields.io/badge/-pandas-130654?style=flat-square&logo=pandas">
   </a>
+  <a href="#">
+    <img alt="polars" src="https://img.shields.io/badge/Polars-badge?style=flat-square&logo=polars&logoColor=white&labelColor=black&color=black">
+  </a>
   <a href="#" target="_blank">
     <img alt="Plotly" src="https://img.shields.io/badge/-Plotly-ffffff?style=flat-square&logo=plotly&logoColor=3F4F75">
+  </a>
+  <a href="#">
+    <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-badge?style=flat-square&logo=streamlit&logoColor=brown&labelColor=green&color=green">
   </a>
   <a href="#" target="_blank">
     <img alt="scikit-learn" src="https://img.shields.io/badge/-scikit learn-212529?style=flat-square&logo=scikitlearn">
